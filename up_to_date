@@ -1,1 +1,1 @@
-git pull
+git rev-parse --show-toplevel
